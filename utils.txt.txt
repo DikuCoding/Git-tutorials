@@ -1,2 +1,2 @@
-This is utility function of Version 6.2
+This is utility function of Version 7
 
